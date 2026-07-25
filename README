@@ -1,126 +1,117 @@
-# Olá! Eu sou Arthur Nogueira 👋
+# 👋 Olá, eu sou Arthur Nogueira
 
-Sou Desenvolvedor .NET com 4 anos de experiência no desenvolvimento e sustentação de sistemas corporativos, atuando principalmente com C#, VB.NET, ASP.NET, SQL Server e Oracle.
+### 💻 Desenvolvedor .NET | C# | ASP.NET Core | SQL Server | Oracle | Angular | React
 
-Tenho experiência na implementação de novas funcionalidades, integrações entre sistemas, investigação de incidentes em produção, otimização de consultas SQL e desenvolvimento de APIs REST e SOAP. Atualmente estou aprofundando meus conhecimentos em .NET moderno, arquitetura de software e microsserviços.
+Sou Desenvolvedor .NET com **4 anos de experiência** no desenvolvimento e sustentação de sistemas corporativos, atuando na construção de APIs, integrações entre sistemas, otimização de banco de dados e resolução de incidentes em produção.
+
+Atualmente estou aprofundando meus conhecimentos em **ASP.NET Core**, **Microsserviços**, **Docker**, **RabbitMQ**, **Angular**, **React** e boas práticas como **Clean Architecture**, **DDD** e **SOLID**.
 
 ---
 
 ## 🚀 Tecnologias
 
-### Back-end
-- C#
-- VB.NET
-- ASP.NET Framework
-- ASP.NET Core
-- Web API
-- Entity Framework / EF Core
+### 🔹 Back-end
 
-### Banco de Dados
-- SQL Server
-- Oracle
-- T-SQL
-- Stored Procedures
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
+</p>
 
-### Front-end
-- Angular
-- React
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- jQuery
+### 🔹 Front-end
 
-### Arquitetura
-- REST APIs
-- Clean Architecture
-- SOLID
-- DDD
-- Injeção de Dependência
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap" />
+</p>
 
-### Ferramentas
-- Visual Studio
-- Git
-- GitHub
-- Azure DevOps
-- Postman
-- Swagger
-- Docker
+### 🔹 Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### 🔹 Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+</p>
 
 ---
 
-## 💼 Experiência
+# 🚀 Atualmente estudando
 
-Durante minha trajetória participei da evolução e sustentação de sistemas corporativos de cobrança e recuperação de crédito, desenvolvendo integrações e funcionalidades para clientes como:
-
-- BTG Pactual
-- Banco PAN
-- Banco Safra
-- Porto Seguro
-- Afinz
-- Recupera
-- Dental Speed
-
-Minhas principais atividades envolveram:
-
-- Desenvolvimento em C# e VB.NET
-- Desenvolvimento de APIs REST
-- Consumo de APIs REST e SOAP
-- Integrações entre sistemas
-- SQL Server e Oracle
-- Otimização de consultas
-- Correção de incidentes em produção
-- Implementação de novas funcionalidades
-- Análise de requisitos
+- ✅ ASP.NET Core
+- ✅ Clean Architecture
+- ✅ DDD
+- ✅ SOLID
+- ✅ Microsserviços
+- ✅ Docker
+- ✅ RabbitMQ
+- ✅ GitHub Actions
+- ✅ Angular
+- ✅ React
 
 ---
 
-## 📚 Atualmente estudando
+# 📂 Principais Projetos
 
-- ASP.NET Core 10
-- Microsserviços
-- RabbitMQ
-- Docker
-- Testes Automatizados
-- Angular
-- React
-- Clean Architecture
+### 🔹 API REST ASP.NET Core
 
----
-
-## 📌 Projetos
-
-### API REST com ASP.NET Core
-
-Projeto desenvolvido utilizando:
+API desenvolvida utilizando:
 
 - ASP.NET Core
 - Entity Framework Core
 - SQL Server
 - Swagger
-- Versionamento de API
-- Testes Unitários
-- Repository Pattern
+- Versionamento
+- Testes Automatizados
+
+➡️ Em breve
 
 ---
 
-### Próximos projetos
+### 🔹 Clean Architecture
 
-- Sistema Financeiro completo
-- Microsserviços com RabbitMQ
-- Clean Architecture
-- Angular consumindo API
-- React consumindo API
+Projeto utilizando arquitetura em camadas, SOLID e DDD.
+
+➡️ Em breve
 
 ---
 
-## 📈 Objetivo
+### 🔹 Microsserviços
 
-Meu foco é atuar como Desenvolvedor .NET Back-end ou Full Stack, participando do desenvolvimento de aplicações escaláveis, APIs modernas e soluções que gerem valor para o negócio.
+Projeto de estudos utilizando APIs independentes e mensageria.
+
+➡️ Em breve
+
+---
+
+## 📈 Estatísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArthurWeMovi&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurWeMovi&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/arthurnogueira2500/
-- 📧 E-mail: nogueira_2000@outlook.com
+<p>
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ Obrigado por visitar meu perfil!
