@@ -102,7 +102,7 @@ Projeto de estudos utilizando APIs independentes e mensageria.
 
 <p>
 
-<a href="[SEU_LINKEDIN](https://www.linkedin.com/in/arthurnogueira2500/)">
+<a href="(https://www.linkedin.com/in/arthurnogueira2500/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
